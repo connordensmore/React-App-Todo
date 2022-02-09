@@ -8,7 +8,7 @@ const Todo = ({ text }) => {
 				<i className="fas fa-check"></i>
 			</button>
 			<button className="trash-btn">
-				<i className="fas fa-check"></i>
+				<i className="fas fa-trash"></i>
 			</button>
 		</div>
 	);
